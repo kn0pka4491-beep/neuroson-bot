@@ -1,0 +1,1 @@
+# Place the content of main.ru here as the content of main.py
